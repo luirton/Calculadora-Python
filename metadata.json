@@ -1,0 +1,6 @@
+{
+  "name": "PyCalc Didática — Simulador e Guia de Calculadora em Python",
+  "description": "Ambiente interativo de aprendizado com simulador de terminal Python, código-fonte comentado linha por linha (PEP 8), rastreador de fluxo de execução e guia didático completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
